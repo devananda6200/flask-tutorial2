@@ -1,1 +1,8 @@
 mail_config.py
+__pycache__/
+flaskenv/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
